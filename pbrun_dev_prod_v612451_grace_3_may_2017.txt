@@ -1,0 +1,93 @@
+cpsogl09(6): ./pbrun_dev
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[19803]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[19804]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[19805]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+Enter LAN Credentials at the Prompt
+Password:
+Enter RSA SecurID PIN + Token Code:
+
+User not authorized to execute pbrun on Remote Machine agaisg42.it.statestr.com
+
+pbrun8.5.1-01[19806]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+uid=3825(rtladmin) gid=1001(dp)
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[19821]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[19822]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[19823]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+uid=4676(rtlnqta) gid=1001(dp)
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[19825]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[19826]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[19827]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[19828]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[19829]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+pbrun8.5.1-01[19830]: 5405.04 gethostname: agsos180.it Error 0
+pbrun8.5.1-01[19831]: 5405.04 gethostname: jabds1366.it Error 0
+cpsogl09(7):
+
+
+##############################################################################
+
+
+svag1082 3: ./pbrun_prod
+*********************************************************
+PBRUN ROLES ACCESS TEST On PROD
+*********************************************************
+Wed May  3 13:08:21 EDT 2017
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[565396]: Request rejected by pbmasterd on ssec03dc3.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[565398]: Request rejected by pbmasterd on ssec03dc3.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[565400]: Request rejected by pbmasterd on ssec03dc3.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[565402]: Request rejected by pbmasterd on ssec03dc3.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[565404]: Request rejected by pbmasterd on ssec03dc3.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[565406]: Request rejected by pbmasterd on ssec03dc3.statestr.com.
+pbrun8.5.1-01[565408]: 5405.04 gethostname: aitr15 Permission denied
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[565410]: Request rejected by pbmasterd on ssec03dc3.statestr.com.
+pbrun8.5.1-01[565412]: 5405.04 gethostname: aitr17 Permission denied
+pbrun8.5.1-01[565414]: 5405.04 gethostname: gdcqs1247 Permission denied
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[565416]: Request rejected by pbmasterd on ssec03dc3.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[565418]: Request rejected by pbmasterd on ssec03dc3.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[565420]: Request rejected by pbmasterd on ssec03dc3.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[565422]: Request rejected by pbmasterd on ssec03dc3.statestr.com.
+svag1082 4:

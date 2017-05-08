@@ -1,0 +1,76 @@
+You can now run 'clearquest' to start Rational ClearQuest.
+cpsogl09(18): ./pbrun_dev
+*********************************************************
+PBRUN ROLES ACCESS TEST ON DEV
+*********************************************************
+Wed May  3 09:52:46 EDT 2017
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[22787]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[22788]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[22789]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[22790]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[22792]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[22793]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[22794]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[22795]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[22796]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+cpsogl09(19):
+
+svag1162 23: ./pbrun_prod
+*********************************************************
+PBRUN ROLES ACCESS TEST On PROD
+*********************************************************
+Wed May  3 09:52:07 EDT 2017
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[3817536]: Request rejected by pbmasterd on ssec03dr.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[3817538]: Request rejected by pbmasterd on ssec03dr.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[3817540]: Request rejected by pbmasterd on ssec03dr.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[3817542]: Request rejected by pbmasterd on ssec03dr.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[3817544]: Request rejected by pbmasterd on ssec03dr.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[3817546]: Request rejected by pbmasterd on ssec03dr.statestr.com.
+pbrun8.5.1-01[3817548]: 5405.04 gethostname: aitr15 Permission denied
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[3817550]: Request rejected by pbmasterd on ssec03dr.statestr.com.
+pbrun8.5.1-01[3817552]: 5405.04 gethostname: aitr17 Permission denied
+pbrun8.5.1-01[3817554]: 5405.04 gethostname: gdcqs1247 Permission denied
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[3817556]: Request rejected by pbmasterd on ssec03dr.statestr.com.
+Enter LAN Credentials at the Prompt
+Password:
+Enter RSA SecurID PIN + Token Code:
+
+uid=3825(rtladmin) gid=1001(dp) groups=4745(dpbet),4531(dpcbs),4740(dpesf),4421(dpssc)
+uid=4634(rtlelon) gid=1001(dp)
+uid=17190(rtlpchz) gid=1001(dp) groups=111335(dpptky)
+svag1162 24:
+

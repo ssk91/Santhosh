@@ -1,0 +1,84 @@
+                                        For cpsogl09:-
+
+cpsogl09(1): ./pbrun_dev
+*********************************************************
+PBRUN ROLES ACCESS TEST ON DEV
+*********************************************************
+Thu May  4 09:31:01 EDT 2017
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[27896]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[27898]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+Enter LAN Credentials at the Prompt
+Password:
+Enter RSA SecurID PIN + Token Code:
+
+uid=3825(rtladmin) gid=1001(dp)
+uid=4676(rtlnqta) gid=1001(dp)
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[27934]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[27935]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[27936]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[27937]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[27938]: Request rejected by pbmasterd on ssecd3.it.statestr.com.
+cpsogl09(2):
+
+
+
+
+                                        For Svag1161:-
+
+
+svag1161 1: ./pbrun_prod
+*********************************************************
+PBRUN ROLES ACCESS TEST On PROD
+*********************************************************
+Thu May  4 09:32:30 EDT 2017
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[1528042]: Request rejected by pbmasterd on ssec03dr.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[1528044]: Request rejected by pbmasterd on ssec03dr.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[1528046]: Request rejected by pbmasterd on ssec03dr.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[1528048]: Request rejected by pbmasterd on ssec03dr.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[1528050]: Request rejected by pbmasterd on ssec03dr.statestr.com.
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[1528052]: Request rejected by pbmasterd on ssec03dr.statestr.com.
+pbrun8.5.1-01[1528054]: 5405.04 gethostname: aitr15 Permission denied
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[1528056]: Request rejected by pbmasterd on ssec03dr.statestr.com.
+pbrun8.5.1-01[1528058]: 5405.04 gethostname: aitr17 Permission denied
+pbrun8.5.1-01[1528060]: 5405.04 gethostname: gdcqs1247 Permission denied
+User NOT authorized to execute pbrun
+
+pbrun8.5.1-01[1528062]: Request rejected by pbmasterd on ssec03dr.statestr.com.
+Enter LAN Credentials at the Prompt
+Password:
+Enter RSA SecurID PIN + Token Code:
+
+uid=3825(rtladmin) gid=1001(dp) groups=4745(dpbet),4531(dpcbs),4740(dpesf),4421(dpssc)
+uid=4634(rtlelon) gid=1001(dp)
+uid=17190(rtlpchz) gid=1001(dp) groups=111335(dpptky)
+svag1161 2:
+
+
